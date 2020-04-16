@@ -1,0 +1,7 @@
+localhost
+root
+
+1
+pysql_low
+from_user
+to_user

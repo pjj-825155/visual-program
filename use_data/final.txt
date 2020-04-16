@@ -1,0 +1,20 @@
+[
+    {
+        "name": "37a-3person",
+        "children": [
+            {
+                "name": "78a-1person",
+                "children": [
+                    {
+                        "name": "80a-0person",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "81a-0person",
+                "children": []
+            }
+        ]
+    }
+]
